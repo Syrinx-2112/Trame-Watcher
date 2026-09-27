@@ -164,4 +164,4 @@ Le lore s'articule autour de lieux réels de Normandie (La Hague, Caen, Raz Blan
 
 ## 📄 Licence
 
-*(à compléter selon vos préférences — MIT, CC-BY-NC, tous droits réservés, etc.)*
+*MIT*
