@@ -35,8 +35,8 @@ C'est à la fois :
 Python 3.9+ requis (usage de `from __future__ import annotations` et de types génériques).
 
 ```bash
-git clone <url-de-votre-repo>
-cd <votre-repo>
+git clone https://github.com/Syrinx-2112/Trame-Watcher
+cd Trame-Watcher
 ```
 
 Aucune dépendance externe n'est strictement nécessaire (tout repose sur la bibliothèque standard). L'affichage enrichi est optionnel :
